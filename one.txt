@@ -1,3 +1,6 @@
-一个新的文件txt
+﻿一个新的文件txt
 Git is a version system
 Its strongly
+1
+2
+3
