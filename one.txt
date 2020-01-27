@@ -1,9 +1,4 @@
-﻿一个新的文件txt
-Git is a version system
-Its strongly
-1
-a
-d
-4
-f
-6
+﻿aaaaaaaaaaaaaaaaa
+onetwo
+tjree
+four
